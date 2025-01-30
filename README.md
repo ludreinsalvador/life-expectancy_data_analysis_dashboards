@@ -64,7 +64,7 @@ The dataset consists of key metrics related to health, economy, and mortality.
 
 ---
 ## Dashboard
-- <a href=https://github.com/ludreinsalvador/life-expectancy_data_analysis_dashboards/blob/main/global-health-insights_life-expectancy.pdf>PDF File</a>
+- <a href=https://github.com/ludreinsalvador/life-expectancy_data_analysis_dashboards/blob/main/global-health-insights_life-expectancy.pdf>Power BI Dashboard File</a>
 ### Preview of Dashboards
 📊 This project includes the following Power BI dashboards:  
 
